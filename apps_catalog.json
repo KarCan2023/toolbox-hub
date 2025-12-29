@@ -1,0 +1,58 @@
+[
+  {
+    "name": "combinar",
+    "desc": "Herramienta para combinar datos.",
+    "tags": ["utilidades"],
+    "url": "https://combinar.streamlit.app/",
+    "repo": "https://github.com/KarCan2023/combinar"
+  },
+  {
+    "name": "convertidor_csv_excel",
+    "desc": "Convierte archivos CSV a Excel.",
+    "tags": ["csv", "excel"],
+    "url": "https://convertidor-csv-excel.streamlit.app/",
+    "repo": "https://github.com/KarCan2023/convertidor_csv_excel"
+  },
+  {
+    "name": "engagement-analyzer",
+    "desc": "Analiza el engagement de tus campañas.",
+    "tags": ["marketing", "analytics"],
+    "url": "https://engagement-analyzer.streamlit.app/",
+    "repo": "https://github.com/KarCan2023/engagement-analyzer"
+  },
+  {
+    "name": "export-advanced",
+    "desc": "Exportaciones avanzadas de datos.",
+    "tags": ["exportación"],
+    "url": "https://export-advanced.streamlit.app/",
+    "repo": "https://github.com/KarCan2023/export-advanced"
+  },
+  {
+    "name": "marketing-directo-hub",
+    "desc": "Hub de marketing directo.",
+    "tags": ["marketing"],
+    "url": "https://marketing-directo.streamlit.app/",
+    "repo": "https://github.com/KarCan2023/marketing-directo-hub"
+  },
+  {
+    "name": "multimedia",
+    "desc": "Herramientas multimedia.",
+    "tags": ["multimedia"],
+    "url": "https://multimedia-carlos.streamlit.app/",
+    "repo": "https://github.com/KarCan2023/multimedia"
+  },
+  {
+    "name": "music-analyzer",
+    "desc": "Analizador de música.",
+    "tags": ["audio", "análisis"],
+    "url": "https://music-analyzer-v2.streamlit.app/",
+    "repo": "https://github.com/KarCan2023/music-analyzer"
+  },
+  {
+    "name": "pdf-master",
+    "desc": "Herramienta maestra para PDFs.",
+    "tags": ["pdf"],
+    "url": "https://pdf-master.streamlit.app/",
+    "repo": "https://github.com/KarCan2023/pdf-master"
+  }
+]
